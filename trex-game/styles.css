@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(171, 224, 245);
+}
+.dino{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    background-image: url("./images/pandaaa.png");
+    background-size: cover;
+    bottom: 0;
+}
+.obstacle{
+    position: absolute;
+    bottom: 0;
+    width: 80px;
+    height: 80px;
+    background-image: url("./images/cactus.png");
+    background-size: cover;
+}
